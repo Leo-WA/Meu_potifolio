@@ -70,7 +70,7 @@ window.addEventListener('scroll',()=>{
 
 // Typed JS.............
 let typed = new Typed('.typed-text',{
-    strings: ['Web Developer', 'Apps Developer'],
+    strings: ['Web Developer', 'E Gestor de trafego pago'],
     typeSpeed: 100,
     backSpeed: 50,
     backDelay: 1000,
