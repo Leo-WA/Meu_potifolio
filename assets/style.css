@@ -198,6 +198,10 @@ header{
 .header-left h2{
     margin: 1rem 0;
 }
+
+.header-left .btn{
+    margin-bottom: 25px;
+}
 .typed-text{
     background: var(--color-primary);
     border-bottom: 4px solid var(--color-white);
